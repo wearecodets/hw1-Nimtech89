@@ -11,4 +11,4 @@ Phrase 2:How to fix error message "undetermined string meets end of file".
 Section 3:
 
 Phrase 1: How to print out git log in oneline format.
-Phrase 2: how to get git log in oneline format.
+Phrase 2: how to get git log in oneline format
