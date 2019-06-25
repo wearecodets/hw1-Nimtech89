@@ -20,5 +20,5 @@ type "cd .." then type "rm home" to remove "home"
 
 type "cd .." then type "rm projects_to_delegate" to remove "projects_to_delegate"
 
-type "cd ../.." then type "cd home" and then type "rm -rf cleaning.txt" to remove "cleaning.txt"
+type "cd ../.." then type "cd home" and then type "rm -rf cleaning.txt" to remove "cleaning.txt".
 
